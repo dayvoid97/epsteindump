@@ -6,22 +6,10 @@ export default function Home() {
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-semibold tracking-tight">Epstein Dump</h1>
           <p className="mt-4 text-lg text-gray-600">
-            EpsteinDump.com is on a mission to go over all of Epstein Files and make them accessible
-            for everyone to see.
+            We are on a mission to go over all of Epstein Files and make them accessible for
+            everyone to see.
           </p>
         </header>
-
-        <span>
-          <p>
-            Epstein Files are more than 3 million documents. These documents include names of
-            hundreds, if not thousands, of prominent personalities of our era.
-          </p>
-          <p>
-            Scientists, Philanthrophists, Venture Caputalists, Artisits, you name it, it's got names
-            of all the folks highest in their rooms.
-          </p>
-        </span>
-        <br />
 
         {/* Mission */}
         <section className="mb-12">
@@ -52,38 +40,21 @@ export default function Home() {
         {/* Status */}
         <section className="mb-16">
           <h2 className="text-xl font-bold mb-3">Current status</h2>
-          <p className="text-gray-700 leading-relaxed">Domain Registered, Token Launched.</p>
+          <p className="text-gray-700 leading-relaxed">
+            Domain has been registered, and the token has been launched.
+          </p>
           <p className=" font-bold text-xl  leading-relaxed">
             Token Information:
             <a
               href="https://pump.fun/coin/AjRmSm4ZyLYUZ9ftCfi5yzLexpvPSRJtbccKJ99Dpump"
               className="text-blue-600"
             >
-              Epstein Dump Launched on Pump.fun
+              Epstein Dump Launchd on Pump.fun
             </a>
           </p>
           <p className="text-gray-700 leading-relaxed">
-            The project does not hold any token because this is not a capital accumulation endeavor.
-            The plan is to get the project viral so trading volume increases and fees can be
-            collected.
-          </p>
-
-          <p className="text-gray-700 leading-relaxed">
-            The goal is to use the fees to pay journalists to uncover depths of Epstein Files which
-            will be published in this website.
-          </p>
-        </section>
-
-        <section>
-          <h2> Fund the project via tips</h2>
-
-          <p>
-            <span className="font-bold">Solana Wallet Address:</span>{' '}
-            <span>FKjtSKgp5vngiTjr3TR9ouRSNix7qHDjVmn79Zm2h34a</span>{' '}
-          </p>
-          <p>
-            <span className="font-bold">Ethereum Wallet Address:</span>
-            <span>0x534b768b78A1466041dDeA34a1e3E2fA27e61B76</span>{' '}
+            We do not hold any token because we don't have any money. The plan is to get the project
+            viral so trading volume increases and fees can be collected.
           </p>
         </section>
 
@@ -93,7 +64,6 @@ export default function Home() {
             This site presents analysis of publicly available records. It does not assert guilt,
             innocence, or legal conclusions beyond what is stated in source documents.
           </p>
-          <p>Site Launched: Feb 1, 2026</p>
         </footer>
       </div>
     </main>

@@ -16,12 +16,7 @@ export default function Home() {
             Epstein Files are more than 3 million documents. These documents include names of
             hundreds, if not thousands, of prominent personalities of our era.
           </p>
-          <p>
-            Scientists, Philanthrophists, Venture Caputalists, Artisits, you name it, it's got names
-            of all the folks highest in their rooms.
-          </p>
         </span>
-        <br />
 
         {/* Mission */}
         <section className="mb-12">

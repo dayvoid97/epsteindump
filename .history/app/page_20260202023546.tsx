@@ -21,7 +21,6 @@ export default function Home() {
             of all the folks highest in their rooms.
           </p>
         </span>
-        <br />
 
         {/* Mission */}
         <section className="mb-12">

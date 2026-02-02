@@ -6,22 +6,10 @@ export default function Home() {
         <header className="mb-12">
           <h1 className="text-4xl md:text-5xl font-semibold tracking-tight">Epstein Dump</h1>
           <p className="mt-4 text-lg text-gray-600">
-            EpsteinDump.com is on a mission to go over all of Epstein Files and make them accessible
-            for everyone to see.
+            We are on a mission to go over all of Epstein Files and make them accessible for
+            everyone to see.
           </p>
         </header>
-
-        <span>
-          <p>
-            Epstein Files are more than 3 million documents. These documents include names of
-            hundreds, if not thousands, of prominent personalities of our era.
-          </p>
-          <p>
-            Scientists, Philanthrophists, Venture Caputalists, Artisits, you name it, it's got names
-            of all the folks highest in their rooms.
-          </p>
-        </span>
-        <br />
 
         {/* Mission */}
         <section className="mb-12">
@@ -63,9 +51,9 @@ export default function Home() {
             </a>
           </p>
           <p className="text-gray-700 leading-relaxed">
-            The project does not hold any token because this is not a capital accumulation endeavor.
-            The plan is to get the project viral so trading volume increases and fees can be
-            collected.
+            The project does not hold any token because this is not a capital accumulation
+            endeavors. The plan is to get the project viral so trading volume increases and fees can
+            be collected.
           </p>
 
           <p className="text-gray-700 leading-relaxed">
